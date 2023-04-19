@@ -12,12 +12,12 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://docs.flutter.dev/),
+
+
 <img src="https://user-images.githubusercontent.com/107548555/233121590-fad762fd-aa7a-4145-8d26-3f6b9a1f286b.png" alt="Girl in a jacket" width="300" height="700">
 <img src="https://user-images.githubusercontent.com/107548555/233121763-cfa0a269-f659-4bd7-a5b4-6613d0c87e56.png" alt="Girl in a jacket" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/107548555/233123749-8cc75c8d-d379-437c-86fc-45aa95792172.png" alt="Girl in a jacket" width="350" height="700">
-
 <img src="https://user-images.githubusercontent.com/107548555/233121774-d9f99c37-9957-4bb9-bbb6-32f16274c64c.png" alt="Girl in a jacket" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/107548555/233121952-f3baf0c5-4f19-49ac-8e11-08a696719670.png" alt="Girl in a jacket" width="350" height="700">
 <img src="https://user-images.githubusercontent.com/107548555/233121972-3531bc43-5692-4ba3-97fd-bcce9d00a4a8.png" alt="Girl in a jacket" width="350" height="700">
